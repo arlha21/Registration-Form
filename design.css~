@@ -1,0 +1,18 @@
+#mikel{
+	text-align: left;
+	background-color: white;
+	color: white;
+	font-family: sans-serif;
+	margin: auto;
+	float: auto;
+	width: 380px;
+}
+
+#khel {
+	margin: auto;
+	float: auto;
+	background-color: beige;
+	height: 670px;
+	
+}
+
